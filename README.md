@@ -23,7 +23,7 @@ struct ListNode { // ListNode модифицировать нельзя
 <data>;<rand_index>
 Где:
 - <data> — строка (могут быть пробелы, спецсимволы, кодировка UTF-8)
-- <rand_index> — индекс узла, на который указывает rand, либо -1, если rand == nullptr
+- <rand_index> — индекс узла, на который указывает rand, либо -1, если rand == nullptr  
 Пример входного файла (inlet.in):
 apple;2
 banana;-1
